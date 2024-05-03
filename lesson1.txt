@@ -1,0 +1,8 @@
+Alright everyone so welcome to my Java lessons the reason I am hosting these lessons with the team is because while many of our developers from a COBOL background write valid working Java code they illustrate a lack of understanding of certain features of the language and secondly because for the last month I was supposed to dedicate every one of my 160 hours to switch and build simulation development but because of other things that frequently almost daily required my attention on the yard management end I wasn't able to meet that expectation. 
+
+My solution is to make sure that the rest of the yard management team has the Java knowledge needed to contribute to Java development tasks when needed.
+
+Today's lesson is just a 30 minute note taking lesson with no coding required on your part I just want to illustrate and explain what the jvm is the reason for this is because there are certain features of the Java language such as the try with resources statement that only makes sense within the context of the jvm so if you don't understand what the JVM is you won't understand how that particular language construct works, and other  language constructs that deal specifically with the JVM work, when we get to them in a later lesson. 
+
+I think the best way to 
+
